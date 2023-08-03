@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'SUBMITTING PO: If you are ready to move forward with this service quoted, send your PO to your Equipment Service Technician at stester17@steris.com or to our Service Support Team at SoutheastSVCSupport@steris.com\n'</initValue>
+      <name>line</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

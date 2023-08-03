@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "D4382F9584334FEFD2F171F3737E56EC",
+  "keywordClasses": [
+    {
+      "name": "pdf.PDFDownload",
+      "keywordMethods": [
+        {
+          "name": "verifyTextFromPDF",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

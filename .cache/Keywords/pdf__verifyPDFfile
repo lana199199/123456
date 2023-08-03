@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "7DE18A7B56F66F2DCA95C94CBFD5F327",
+  "keywordClasses": [
+    {
+      "name": "pdf.verifyPDFfile",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

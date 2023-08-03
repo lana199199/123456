@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "0451D2E81AC481AE7539EEFFEC37CF04",
+  "keywordClasses": [
+    {
+      "name": "pdf.readPDF",
+      "keywordMethods": [
+        {
+          "name": "ReadPDFF",
+          "parameters": [
+            {
+              "name": "PDFURL",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
